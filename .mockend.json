@@ -1,5 +1,4 @@
 {
-  "User": {
   "urls": {
     "raw": "https://images.unsplash.com/photo-1569008784345-21bdc27202b9?ixid=MnwzNzgzMTN8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Njc3MzE2NjQ\u0026ixlib=rb-4.0.3",
     "full": "https://images.unsplash.com/photo-1569008784345-21bdc27202b9?crop=entropy\u0026cs=tinysrgb\u0026fm=jpg\u0026ixid=MnwzNzgzMTN8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Njc3MzE2NjQ\u0026ixlib=rb-4.0.3\u0026q=80",
@@ -8,5 +7,4 @@
     "thumb": "https://images.unsplash.com/photo-1569008784345-21bdc27202b9?crop=entropy\u0026cs=tinysrgb\u0026fit=max\u0026fm=jpg\u0026ixid=MnwzNzgzMTN8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Njc3MzE2NjQ\u0026ixlib=rb-4.0.3\u0026q=80\u0026w=200",
     "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1569008784345-21bdc27202b9"
   }
-}
 }
